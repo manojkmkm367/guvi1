@@ -17,7 +17,6 @@ public class Main {
 				count=0;
 				for(j=i;j<n;j++)
 				{
-					//System.out.println(i+"..."+j);
 					if((a.substring(i,i+1) ).equals(a.substring(j,j+1)))
 					{
 						count++;
